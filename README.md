@@ -104,7 +104,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 🙋‍♂️ Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
-Developed by [Your Name]
+Developed by Amit Kumar
 
 yaml
 Copy
